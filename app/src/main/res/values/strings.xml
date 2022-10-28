@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">VillarizaLearningTask</string>
+    <string name="icon_holder">Icon Holder</string>
+    <string name="app_desc1">Crunch</string>
+    <string name="app_desc2">Twix</string>
+    <string name="app_desc3">MnMs</string>
+    <string name="app_desc4">Toblerone</string>
+    <string name="app_title">Chocolates</string>
+</resources>
